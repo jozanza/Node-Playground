@@ -9,4 +9,4 @@ If you run your app using the 'node' command as you most likely have been throug
     $ node-dev app
     # Starts runs your Node app in dev mode
     
-Now instead of having to stop/restart your app each time you make a change to your server code, Node will automatically stop/restart for you.
+Now instead of having to stop/restart your app each time you make a change to your server code, Node will automatically stop/restart for you each time you save.
