@@ -11,5 +11,5 @@ Next, take a look at the walkthroughs and follow the instructions in the README.
 
 Walkthroughs
 ---------------
-[Basic Server](https://github.com/josiahsavary/Node-Playground/tree/master/basic_server)
-[Simple Express App](https://github.com/josiahsavary/Node-Playground/tree/master/simple_express_app)
+* [Basic Server](https://github.com/josiahsavary/Node-Playground/tree/master/basic_server)
+* [Simple Express App](https://github.com/josiahsavary/Node-Playground/tree/master/simple_express_app)

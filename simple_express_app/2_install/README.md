@@ -1,5 +1,5 @@
-Running a Basic Node.js Server with Express -- Part II
-======================================================
+Simple Express App -- Part II
+=============================
 Next, run the following:
 
     $ npm install express --save

@@ -1,5 +1,5 @@
-Running a Basic Node.js Server with Express -- Part I
-=====================================================
+Simple Express App -- Part I
+============================
 In Terminal, navigate to your project directory, and run the following code:
 
     $ npm init

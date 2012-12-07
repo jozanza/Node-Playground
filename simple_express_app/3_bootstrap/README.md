@@ -1,5 +1,5 @@
-Running a Basic Node.js Server with Express -- Part III
-=======================================================
+Simple Express App -- Part III
+==============================
 Now that Express and its dependencies are installed, we can bootstrap our app using the *express* command and start our server:
 
     $ express app
