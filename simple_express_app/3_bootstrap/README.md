@@ -12,4 +12,4 @@ Express creates a directory called 'app' and a bunch of files to get you going. 
     $ node app.js
     # Run your app
 
-Open up your web browser, navigate to localhost:3000 and you should see your app up and running.
+Open up your web browser, navigate to localhost:3000 and you should see your app up and running. Congrats!
