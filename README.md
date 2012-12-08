@@ -13,3 +13,4 @@ Walkthroughs
 ---------------
 * [Basic Server](https://github.com/josiahsavary/Node-Playground/tree/master/basic_server)
 * [Simple Express App](https://github.com/josiahsavary/Node-Playground/tree/master/simple_express_app)
+* [Reading Files](http://github.com/josiahsavary/Node-Playground/tree/master/reading_files)
